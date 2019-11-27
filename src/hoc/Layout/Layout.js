@@ -34,7 +34,6 @@ class Layout extends Component {
            {this.props.children}
          </main>
          </Aux>
-
     )
   }
 }
