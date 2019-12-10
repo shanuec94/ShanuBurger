@@ -6,7 +6,7 @@ import ContactData from './ContactData/ContactData';
 
 class Checkout extends Component {
 
-    state = {
+    state = { 
         ingredients: null,
         price: 0
     }
